@@ -7,7 +7,7 @@ export default (params) => {
             <div className=" font-thin text-black">
                 <div className="p-10 text-left lg:text-center">
 
-            <p className="animate-fade-in-down p-4">UNTILL I DISCOVERED COOKING I WAS NEVER REALLY </p> 
+            <p className="animate-fade-in-down p-4">UNTIL I DISCOVERED COOKING I WAS NEVER REALLY </p> 
             <p className="" >INTERESTED IN ANYTHING</p>
             </div> 
             </div>
