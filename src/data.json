@@ -26,7 +26,7 @@
       {
         "order": "Baked Potato Pizza",
         "price": 12,
-        "ingredients": ["Potato", "Bread", "Chesse"],
+        "ingredients": ["Potatoes", "Bread", "Chesse"],
         "Favorite": true
       },
       {
