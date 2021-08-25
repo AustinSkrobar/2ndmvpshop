@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/2ndmvpshop/static/css/main.a67790bc.chunk.css",
+    "main.js": "/2ndmvpshop/static/js/main.8c63e665.chunk.js",
+    "main.js.map": "/2ndmvpshop/static/js/main.8c63e665.chunk.js.map",
+    "runtime-main.js": "/2ndmvpshop/static/js/runtime-main.d323e5c9.js",
+    "runtime-main.js.map": "/2ndmvpshop/static/js/runtime-main.d323e5c9.js.map",
+    "static/js/2.be992549.chunk.js": "/2ndmvpshop/static/js/2.be992549.chunk.js",
+    "static/js/2.be992549.chunk.js.map": "/2ndmvpshop/static/js/2.be992549.chunk.js.map",
+    "index.html": "/2ndmvpshop/index.html",
+    "static/css/main.a67790bc.chunk.css.map": "/2ndmvpshop/static/css/main.a67790bc.chunk.css.map",
+    "static/js/2.be992549.chunk.js.LICENSE.txt": "/2ndmvpshop/static/js/2.be992549.chunk.js.LICENSE.txt",
+    "static/media/BarTop.6cd5f599.jpg": "/2ndmvpshop/static/media/BarTop.6cd5f599.jpg",
+    "static/media/BigOlChicken.f770c71b.jpg": "/2ndmvpshop/static/media/BigOlChicken.f770c71b.jpg",
+    "static/media/GrilledChicken.06c544e8.jpg": "/2ndmvpshop/static/media/GrilledChicken.06c544e8.jpg",
+    "static/media/Kimchi-Ramen-35-1024x682-150x150.279d2164.jpg": "/2ndmvpshop/static/media/Kimchi-Ramen-35-1024x682-150x150.279d2164.jpg",
+    "static/media/Noodles.d973e3de.jpg": "/2ndmvpshop/static/media/Noodles.d973e3de.jpg",
+    "static/media/index.css": "/2ndmvpshop/static/media/mainChefMenu.bcc63406.jpg",
+    "static/media/SeafoodGumbo.01950c05.jpg": "/2ndmvpshop/static/media/SeafoodGumbo.01950c05.jpg",
+    "static/media/Shakshouka-Tanya-Zouev-150x150.89396e38.jpg": "/2ndmvpshop/static/media/Shakshouka-Tanya-Zouev-150x150.89396e38.jpg",
+    "static/media/Shakshouka.6d6a9f94.jpg": "/2ndmvpshop/static/media/Shakshouka.6d6a9f94.jpg",
+    "static/media/appetizers.27148723.jpeg": "/2ndmvpshop/static/media/appetizers.27148723.jpeg",
+    "static/media/dumplings.d5f90cb6.jpg": "/2ndmvpshop/static/media/dumplings.d5f90cb6.jpg",
+    "static/media/saltedChicken.4087eeba.jpg": "/2ndmvpshop/static/media/saltedChicken.4087eeba.jpg",
+    "static/media/smallerAppetizers.a7445324.jpeg": "/2ndmvpshop/static/media/smallerAppetizers.a7445324.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d323e5c9.js",
+    "static/js/2.be992549.chunk.js",
+    "static/css/main.a67790bc.chunk.css",
+    "static/js/main.8c63e665.chunk.js"
+  ]
+}
