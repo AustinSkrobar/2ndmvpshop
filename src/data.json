@@ -8,7 +8,7 @@
         "Favorite": false
       },
       {
-        "order": "Crab With Curry Sources",
+        "order": "Crab With Curry Sauces",
         "price": 24.5,
         "ingredients": ["Crab", "Potatoes", "Rice"],
         "Favorite": false
@@ -26,7 +26,7 @@
       {
         "order": "Baked Potato Pizza",
         "price": 12,
-        "ingredients": ["Potato", "Bread", "Chesse"],
+        "ingredients": ["Potatoes", "Bread", "Chesse"],
         "Favorite": true
       },
       {
@@ -54,7 +54,7 @@
         "Favorite": false
       },
       {
-        "order": "Lemon-Rosemart Chicken",
+        "order": "Lemon-Rosemary Chicken",
         "price": 19.9,
         "ingredients": ["Chicken", "Rosemary", "Lemon"],
         "Favorite": false
